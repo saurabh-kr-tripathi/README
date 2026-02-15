@@ -53,5 +53,3 @@ This GitHub profile serves as a space to document my learning journey, computati
 experiments, and explorations of physical systems using programming tools.
 
 ---
-
-✨ *"Physics begins with curiosity and advances through understanding."*
