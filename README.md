@@ -51,5 +51,3 @@ I am continuously working to deepen my understanding of:
 
 This GitHub profile serves as a space to document my learning journey, computational 
 experiments, and explorations of physical systems using programming tools.
-
----
